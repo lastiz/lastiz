@@ -38,5 +38,5 @@ I am a Junior Python Developer. <img src="https://media.giphy.com/media/WUlplcMp
 ### :fire: My Stats :
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lastiz&theme=dark&background=000000)
 
-![Top Langs](https://github-readme-stats-ltuc.vercel.app/api/top-langs/?username=lastiz&layout=compact&theme=vision-friendly-dark)
+![Top Langs](https://github-readme-stats-ltuc.vercel.app/api/top-langs/?username=lastiz&exclude_repo=github-readme-stats&layout=compact&theme=vision-friendly-dark)
 ---
