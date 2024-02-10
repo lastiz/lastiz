@@ -5,7 +5,7 @@
 ---
 
 ### :technologist: About Me :
-I am a Junior Python Developer. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+I am a Python Developer. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - :telescope: I’m working as a freelancer and contributing to frontend and backend for building web applications.
 
 - :seedling: In my free time, I study new technologies and read tech articles.
