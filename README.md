@@ -11,7 +11,6 @@ I am a Python Developer. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 - :seedling: In my free time, I study new technologies and read tech articles.
 
 - :mailbox:How to reach me: [![Gmail](https://img.shields.io/badge/Gmail-D14836?&logo=gmail&logoColor=white)](mailto:galaut55@gmail.com)
-                            [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?&logo=telegram&logoColor=white)](https://t.me/user0005679)
 
 ---
 
